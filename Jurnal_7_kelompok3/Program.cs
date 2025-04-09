@@ -22,9 +22,21 @@ public class Program
         Console.WriteLine($"Alamat: {mhs.address.streetAddress}, {mhs.address.city}, {mhs.address.state}");
         
     }
+    public static void readJSON2() {
+        string filePath = @"C:\tumbal\online\jurnal7_2_103022300113.json";
+        string JsonString = File.ReadAllText(filePath);
+
+        Member mhs = JsonSerializer.Deserialize<Member>
+            (JsonString);
+        Console.WriteLine($"Nama: {mhs.firstName} {mhs.lastName}");
+        Console.WriteLine($"Gender: {mhs.gender}");
+        Console.WriteLine($"Umur: {mhs.age}");
+        Console.WriteLine($"NIM: {mhs.nim}");
+    }
 
     public static void Main()
     {
         ReadJSON();
+        readJSON2();
     }
 }
