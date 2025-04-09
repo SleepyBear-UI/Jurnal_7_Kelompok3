@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{F9D7BC31-4CC8-4462-AD0E-76E03CE83463}|Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj|solutionrelative:jurnal_7_kelompok3\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D7BC31-4CC8-4462-AD0E-76E03CE83463}|Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj|c:\\telkom\\semester 4\\konstruksi\\online 2\\jurnal_7_kelompok3\\jurnal_7_kelompok3\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D7BC31-4CC8-4462-AD0E-76E03CE83463}|Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj|solutionrelative:jurnal_7_kelompok3\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9D7BC31-4CC8-4462-AD0E-76E03CE83463}|Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj|c:\\telkom\\semester 4\\konstruksi\\online 2\\jurnal_7_kelompok3\\jurnal_7_kelompok3\\glossaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D7BC31-4CC8-4462-AD0E-76E03CE83463}|Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj|solutionrelative:jurnal_7_kelompok3\\glossaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9D7BC31-4CC8-4462-AD0E-76E03CE83463}|Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj|c:\\telkom\\semester 4\\konstruksi\\online 2\\jurnal_7_kelompok3\\jurnal_7_kelompok3\\datamahasiswa103022300113cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{F9D7BC31-4CC8-4462-AD0E-76E03CE83463}|Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj|solutionrelative:jurnal_7_kelompok3\\coursecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D7BC31-4CC8-4462-AD0E-76E03CE83463}|Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj|c:\\telkom\\semester 4\\konstruksi\\online 2\\jurnal_7_kelompok3\\jurnal_7_kelompok3\\memberwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D7BC31-4CC8-4462-AD0E-76E03CE83463}|Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj|solutionrelative:jurnal_7_kelompok3\\memberwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9D7BC31-4CC8-4462-AD0E-76E03CE83463}|Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj|c:\\telkom\\semester 4\\konstruksi\\online 2\\jurnal_7_kelompok3\\jurnal_7_kelompok3\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D7BC31-4CC8-4462-AD0E-76E03CE83463}|Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj|solutionrelative:jurnal_7_kelompok3\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,15 +42,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\Member.cs",
-              "RelativeDocumentMoniker": "Jurnal_7_kelompok3\\Member.cs",
-              "ToolTip": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\Member.cs",
-              "RelativeToolTip": "Jurnal_7_kelompok3\\Member.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GlossaryItem.cs",
+              "DocumentMoniker": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\GlossaryItem.cs",
+              "RelativeDocumentMoniker": "Jurnal_7_kelompok3\\GlossaryItem.cs",
+              "ToolTip": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\GlossaryItem.cs",
+              "RelativeToolTip": "Jurnal_7_kelompok3\\GlossaryItem.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T09:36:46.684Z",
+              "WhenOpened": "2025-04-09T10:06:26.123Z",
               "EditorCaption": ""
             },
             {
@@ -81,20 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\Program.cs",
-              "RelativeDocumentMoniker": "Jurnal_7_kelompok3\\Program.cs",
-              "ToolTip": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\Program.cs",
-              "RelativeToolTip": "Jurnal_7_kelompok3\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowB4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T08:58:14.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\Address.cs",
               "RelativeDocumentMoniker": "Jurnal_7_kelompok3\\Address.cs",
@@ -107,15 +94,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MemberWrapper.cs",
-              "DocumentMoniker": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\MemberWrapper.cs",
-              "RelativeDocumentMoniker": "Jurnal_7_kelompok3\\MemberWrapper.cs",
-              "ToolTip": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\MemberWrapper.cs",
-              "RelativeToolTip": "Jurnal_7_kelompok3\\MemberWrapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\Member.cs",
+              "RelativeDocumentMoniker": "Jurnal_7_kelompok3\\Member.cs",
+              "ToolTip": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\Member.cs",
+              "RelativeToolTip": "Jurnal_7_kelompok3\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T09:45:20.505Z",
+              "WhenOpened": "2025-04-09T09:36:46.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\Program.cs",
+              "RelativeDocumentMoniker": "Jurnal_7_kelompok3\\Program.cs",
+              "ToolTip": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\Program.cs*",
+              "RelativeToolTip": "Jurnal_7_kelompok3\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:58:14.607Z",
               "EditorCaption": ""
             }
           ]
