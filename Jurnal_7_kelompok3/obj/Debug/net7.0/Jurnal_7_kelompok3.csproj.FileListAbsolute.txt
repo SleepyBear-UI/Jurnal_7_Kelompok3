@@ -1,0 +1,15 @@
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.csproj.AssemblyReference.cache
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.AssemblyInfoInputs.cache
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.AssemblyInfo.cs
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/bin/Debug/net7.0/Jurnal_7_kelompok3
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/bin/Debug/net7.0/Jurnal_7_kelompok3.deps.json
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/bin/Debug/net7.0/Jurnal_7_kelompok3.runtimeconfig.json
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/bin/Debug/net7.0/Jurnal_7_kelompok3.dll
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/bin/Debug/net7.0/Jurnal_7_kelompok3.pdb
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.dll
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/refint/Jurnal_7_kelompok3.dll
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.pdb
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.genruntimeconfig.cache
+/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/ref/Jurnal_7_kelompok3.dll
