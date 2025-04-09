@@ -1,0 +1,15 @@
+{
+   "firstName": "Rafi",
+   "lastName": "Ramadhan",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Jalan Karya Jaya",
+       "city": "Medan",
+       "state": "Sumatera Utara"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
+   ]
+}

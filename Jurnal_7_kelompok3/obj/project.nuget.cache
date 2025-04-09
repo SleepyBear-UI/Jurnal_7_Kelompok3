@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "pwFxOVLyargO2flJSQlUnsY4rsXjM5sDPazIqS7+PClndKgQ36n0c+iZuZ8P+Hr+ZwrE/Cudiqqk1bkg9aob7A==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/Jurnal_7_kelompok3.csproj",
+=======
   "dgSpecHash": "UfP3ZgBaYfE=",
   "success": true,
   "projectFilePath": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj",
+>>>>>>> main
   "expectedPackageFiles": [],
   "logs": []
 }

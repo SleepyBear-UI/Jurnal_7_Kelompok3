@@ -8,31 +8,51 @@
     "net7.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "/Users/mac/.nuget/packages/": {}
+=======
     "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+>>>>>>> main
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/Jurnal_7_kelompok3.csproj",
+      "projectName": "Jurnal_7_kelompok3",
+      "projectPath": "/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/Jurnal_7_kelompok3.csproj",
+      "packagesPath": "/Users/mac/.nuget/packages/",
+      "outputPath": "/Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/",
+=======
       "projectUniqueName": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj",
       "projectName": "Jurnal_7_kelompok3",
       "projectPath": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\Jurnal_7_kelompok3.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Telkom\\Semester 4\\Konstruksi\\online 2\\Jurnal_7_Kelompok3\\Jurnal_7_kelompok3\\obj\\",
+>>>>>>> main
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
+        "/Users/mac/.nuget/NuGet/NuGet.Config"
+=======
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> main
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+<<<<<<< HEAD
+        "/usr/local/share/dotnet/library-packs": {},
+=======
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+>>>>>>> main
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
