@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.csproj.AssemblyReference.cache
 /Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.GeneratedMSBuildEditorConfig.editorconfig
 /Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.AssemblyInfoInputs.cache
@@ -13,3 +14,20 @@
 /Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.pdb
 /Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/Jurnal_7_kelompok3.genruntimeconfig.cache
 /Users/mac/Documents/KPL/Jurnal7/Jurnal_7_Kelompok3/Jurnal_7_kelompok3/obj/Debug/net7.0/ref/Jurnal_7_kelompok3.dll
+=======
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\obj\Debug\net7.0\Jurnal_7_kelompok3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\obj\Debug\net7.0\Jurnal_7_kelompok3.AssemblyInfoInputs.cache
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\obj\Debug\net7.0\Jurnal_7_kelompok3.AssemblyInfo.cs
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\obj\Debug\net7.0\Jurnal_7_kelompok3.csproj.CoreCompileInputs.cache
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\obj\Debug\net7.0\Jurnal_7_kelompok3.sourcelink.json
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\bin\Debug\net7.0\Jurnal_7_kelompok3.exe
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\bin\Debug\net7.0\Jurnal_7_kelompok3.deps.json
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\bin\Debug\net7.0\Jurnal_7_kelompok3.runtimeconfig.json
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\bin\Debug\net7.0\Jurnal_7_kelompok3.dll
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\bin\Debug\net7.0\Jurnal_7_kelompok3.pdb
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\obj\Debug\net7.0\Jurnal_7_kelompok3.dll
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\obj\Debug\net7.0\refint\Jurnal_7_kelompok3.dll
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\obj\Debug\net7.0\Jurnal_7_kelompok3.pdb
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\obj\Debug\net7.0\Jurnal_7_kelompok3.genruntimeconfig.cache
+C:\Telkom\Semester 4\Konstruksi\online 2\Jurnal_7_Kelompok3\Jurnal_7_kelompok3\obj\Debug\net7.0\ref\Jurnal_7_kelompok3.dll
+>>>>>>> main
