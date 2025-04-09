@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Jurnal_7_kelompok3/1.0.0": {
+        "runtime": {
+          "Jurnal_7_kelompok3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jurnal_7_kelompok3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
